@@ -15,6 +15,7 @@ Tasks:
 7. Finish up ShapeAreaComparator Class
 8. Finish up ShapeTest Class
 9. Finish up ShapeSorter Class
+10. Finish up ShapePerimeterComparator Class
 
 Estimated Time (minutes):
 1. 10
@@ -24,17 +25,21 @@ Estimated Time (minutes):
 5. 10
 6. 10
 7. 5
-8. 20
+8. 25
+9. 15
+10. 5
 
 Actual Time (minutes):
 1. 10
-2. 
+2. Did not finish
 3. 10
 4. 7
 5. 8
 6. 10
 7. 5
-8. 
+8. Did not finish
+9. Did not finish
+10. 5
 
 */
 }
