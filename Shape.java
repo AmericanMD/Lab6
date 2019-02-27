@@ -95,11 +95,22 @@ public abstract class Shape implements Comparable<Shape>
 	@Override
 	public int compareTo(Shape s)
 	{
-		if(s.getPerimeter() < getPerimeter()) {
+		if(s.getArea() < this.getArea()) {
 			return 1;
 		}
-		else if{
-			
+		else if(s.getArea() > this.getArea()){
+			return -1;
+		}
+		else {
+			if(s.getPerimeter() < this.getPerimeter()) {
+				return 1;
+			}
+			else if(s.getPerimeter() > this.getPerimeter()) {
+				return -1;
+			}
+			else {
+				return 0;
+			}
 		}
 	}
 
@@ -134,6 +145,6 @@ public abstract class Shape implements Comparable<Shape>
 	@Override
 	public String toString()
 	{
-		// TODO: complete this...
+		return System.out.println(getShapeType());
 	}
 }
