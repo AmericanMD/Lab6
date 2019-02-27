@@ -10,18 +10,31 @@ Tasks:
 2. Make the Square Class
 3. Finish up Trapezoid Class
 4. Finish up EquilateralTriangle Class
+5. Finish up Polygon Class
+6. Finish up Circle Class
+7. Finish up ShapeAreaComparator Class
+8. Finish up ShapeTest Class
+9. Finish up ShapeSorter Class
 
 Estimated Time (minutes):
 1. 10
 2. 10
 3. 10
 4. 15
+5. 10
+6. 10
+7. 5
+8. 20
 
 Actual Time (minutes):
 1. 10
 2. 
 3. 10
-4. 
+4. 7
+5. 8
+6. 10
+7. 5
+8. 
 
 */
 }
